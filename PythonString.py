@@ -1,2 +1,0 @@
-name = "Ranjit";
-friend = "Zaid";
