@@ -1,0 +1,2 @@
+name = "Ranjit";
+friend = "Zaid";
